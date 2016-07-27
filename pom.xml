@@ -11,11 +11,11 @@
     <version>1.7.20</version>
   </parent>
 
-  <artifactId>slf4j-redwood</artifactId>
+  <artifactId>pengyifan-slf4j-redwood</artifactId>
   <packaging>jar</packaging>
   <name>SLF4J Redwood Binding</name>
   <description>SLF4J Redwood Binding</description>
-  <url>http://www.slf4j.org</url>
+  <url>https://github.com/yfpeng/pengyifan-slf4j-redwood</url>
 
   <build>
     <finalName>${project.artifactId}</finalName>
