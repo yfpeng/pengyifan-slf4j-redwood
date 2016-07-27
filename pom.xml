@@ -11,7 +11,8 @@
     <version>1.7.20</version>
   </parent>
 
-  <artifactId>pengyifan-slf4j-redwood</artifactId>
+  <groupId>com.pengyifan.slf4j-redwood</groupId>
+  <artifactId>slf4j-redwood</artifactId>
   <packaging>jar</packaging>
   <name>SLF4J Redwood Binding</name>
   <description>SLF4J Redwood Binding</description>
